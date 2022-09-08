@@ -1,0 +1,12 @@
+Package: OptimFunctions
+Type: Package
+Title: Collection of Optimization Functions for Testing Optimization Algorithms
+Version: 0.1.0
+Author: Jose Toledo Luna
+Maintainer: Jose Toledo Luna <toledo60@protonmail.com>
+Description: A collection of common functions and datasets used for testing optimization algorithms. 
+  They are grouped according to similarities in their significant physical properties and shapes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
